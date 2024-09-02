@@ -1,4 +1,4 @@
-package com.example.aman.Health_Fitness_app;
+package com.example.aman.Health_Fitness_app.repository;
 
 import com.example.aman.Health_Fitness_app.entity.LoginCredentials;
 import org.springframework.data.jpa.repository.JpaRepository;

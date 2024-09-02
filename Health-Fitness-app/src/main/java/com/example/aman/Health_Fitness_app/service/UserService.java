@@ -1,11 +1,12 @@
-package com.example.aman.Health_Fitness_app;
+package com.example.aman.Health_Fitness_app.service;
 
+import com.example.aman.Health_Fitness_app.repository.LoginCredentialsRepository;
+import com.example.aman.Health_Fitness_app.repository.UserRepository;
 import com.example.aman.Health_Fitness_app.entity.LoginCredentials;
 import com.example.aman.Health_Fitness_app.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.List;
 import java.util.Optional;
 
 @Service

@@ -1,6 +1,7 @@
-package com.example.aman.Health_Fitness_app;
+package com.example.aman.Health_Fitness_app.contoller;
 
 
+import com.example.aman.Health_Fitness_app.service.UserService;
 import com.example.aman.Health_Fitness_app.entity.LoginCredentials;
 import com.example.aman.Health_Fitness_app.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
