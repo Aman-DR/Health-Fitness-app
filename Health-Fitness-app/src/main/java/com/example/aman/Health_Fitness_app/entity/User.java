@@ -17,7 +17,7 @@ public class User {
     private String emailId;
     private String password;
     private Integer age;
-    private Integer Gender;
+    private String gender;
     private Integer weight;
-    private Integer height;
+    private Double height;
 }

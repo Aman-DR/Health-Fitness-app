@@ -11,11 +11,8 @@ public class LoginCredentials {
 
     @Id
     private Integer loginId;
-
-//    private User userId;
-//    private User emailId;
-//    private User password;
-//
+    private String emailId;
+    private String password;
 
 
 }
